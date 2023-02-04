@@ -2,6 +2,7 @@
 using namespace std;
 #define pb push_back
 #define endl "\n"
+#define int long long
 int solve(vector<int>& v){
     
 }
